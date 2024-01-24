@@ -1,0 +1,9 @@
+height
+white_background
+title
+purple
+list-
+item-
+about-
+underline (-font-weight)
+image_2
